@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1511256275 source:/Volumes/HDD/Users/maikejohann/Studium/Semester3/Algorithmen_und_Datenstrukturen/codeblocks/blatt3/Suchbaum/main.cpp
+	<iostream>
+
+1511254972 source:/Volumes/HDD/Users/maikejohann/Studium/Semester3/Algorithmen_und_Datenstrukturen/codeblocks/blatt3/Suchbaum/src/BinarySearchTree.cpp
+	"BinarySearchTree.h"
+
+1511256766 /Volumes/HDD/Users/maikejohann/Studium/Semester3/Algorithmen_und_Datenstrukturen/codeblocks/blatt3/Suchbaum/include/BinarySearchTree.h
+
+1511258724 source:/Volumes/HDD/Users/maikejohann/Studium/Semester3/Algorithmen_und_Datenstrukturen/codeblocks/blatt3/Suchbaum/src/Knoten.cpp
+	"Knoten.h"
+
+1511258869 /Volumes/HDD/Users/maikejohann/Studium/Semester3/Algorithmen_und_Datenstrukturen/codeblocks/blatt3/Suchbaum/include/Knoten.h
+	<string>
+
